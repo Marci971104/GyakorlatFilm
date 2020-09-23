@@ -6,6 +6,9 @@ Atlanti óceán
 megjelenés dátuma:
 2012
 
+Trailer:
+https://www.youtube.com/watch?v=dLVKnZzYO0M
+
 Főszereplők:
 Carmen Electra
 Brooke Hogan
@@ -14,13 +17,23 @@ Charlie O'Connell
 Rendező:
 Christpoher Ray
 
+Vágó:
+Rob Pallatina
+
 Operatőr:
 Stuart Bereton
 
 összefoglaló:
 Az események rémálomszerű fordulatot vesznek egy iskolai hajóúton részt vevő diákok számára, amikor hajójukat elsüllyeszti egy mutáns kétfejű cápa. A túlélők, akik egy korallzátonyon találnak menedéket, hamarosan rájönnek, hogy borzasztó megpróbáltatásaiknak még távolról sincs vége, amikor a dagály miatt a szörnyeteg folytatni tudja halálos zsákmányszerzését.
 
+Zeneszerző:
+Chris Ridenhour
 
+Producer:
+David Michael Latt
+
+<<<<<<< HEAD
+=======
 foszereplok:
 Carmen Electra
 Brooke Hogan
@@ -28,3 +41,8 @@ Charlie O'Connell
 
 bevetel : 
 10millio dollar 
+>>>>>>> 17b9d15cb01776bb4819d5c1f58cbf9b192e1840
+
+Díjak:
+nem jelölték semmilyen díjra
+

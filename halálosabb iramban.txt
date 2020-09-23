@@ -8,7 +8,13 @@ Paul Walker
 Michelle Rodriguez
 Jordana Brewster	
 
+<<<<<<< HEAD
 bevetel
 	5,894 milliárd $ (összesen)
 díjak
 nem kapott díjat 
+=======
+Rendezők: Vin Diesel, Justin Lin, James Wan	
+
+megjelenés helyszíne:2001-es amerikai–német film
+>>>>>>> 2dae484adc57edbc672b935f528ccc5e99226aae

@@ -13,7 +13,12 @@ Larry Wachowski, Lilly Wachowski
 bevétele
 171 millió dollár
 
+<<<<<<< HEAD
 díj: 
 Oscar-díj (2000)
 
 
+=======
+>>>>>>> 77610d59be20de0ed41ecc3daed639d5f14be217
+megjelenés helyszíne:1999-es amerikai–ausztrál film
+>>>>>>> 2dae484adc57edbc672b935f528ccc5e99226aae
