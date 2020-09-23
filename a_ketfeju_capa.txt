@@ -42,3 +42,7 @@ Charlie O'Connell
 bevetel : 
 10millio dollar 
 >>>>>>> 17b9d15cb01776bb4819d5c1f58cbf9b192e1840
+
+Díjak:
+nem jelölték semmilyen díjra
+
