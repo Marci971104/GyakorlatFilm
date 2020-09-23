@@ -6,6 +6,9 @@ Hugo Weaving
 Joe Pantoliano
 <<<<<<< HEAD
 
+operator
+Bill Pope
+
 rendezok
 Larry Wachowski, Lilly Wachowski
 =======
