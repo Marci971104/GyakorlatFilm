@@ -21,14 +21,34 @@ díj:
 Oscar-díj (2000)
 
 
-
+megjelenés dátuma 1999. március 31
 megjelenés helyszíne:1999-es amerikai–ausztrál film
+<<<<<<< HEAD
 <<<<<<< HEAD
 Zene	Don Davis
 Producer	Joel Silver
+
 =======
+>>>>>>> f6457b87edd2c1b2ede73defb63d7ed627ce28a1
 
 
 Zene	Don Davis
 
->>>>>>> da35b45dc49121eb26a852d923341e57ca81ed9b
+<<<<<<< HEAD
+=======
+Thomas Anderson programozó egy nagy számítástechnikai cégnél dolgozik, éjjel azonban Neo néven hacker az interneten. Kutatásai közben egyre gyakrabban találkozik a Mátrixszal. Egyik este valaki kapcsolatba lép vele a számítógépén keresztül, és arra utasítja, hogy kövesse a fehér nyulat. Nem sokkal később kopogtatnak nála, és bulizni hívják. Az egyik lány vállán egy tetovált fehér nyulat fedez fel. Elmegy egy éjszakai szórakozóhelyre, ahol megismerkedik Trinityvel, a hackerlánnyal. A lány felajánlja neki, hogy bemutatja Morpheusnak, akitől megtudhatja, mi az a Mátrix. Másnap késve érkezik a munkába, és kap egy telefont magától Morpheustól, hogy az ügynökök jönnek érte. Morpheus próbál segíteni Neónak, hogy kijusson, de végül elkapják, és a testébe ültetnek egy poloskát. Ezután találkozik Morpheusszal, aki két pirulát ajánl fel neki: ha a pirosat veszi be, akkor tovább folytatódik az egész, ha a kéket, akkor felébred otthon, és semmire nem fog emlékezni. Neo végül a pirosat veszi be, így kezdetét veszi a kaland. Kiderül, hogy ő a kiválasztott, aki végre képes legyőzni az ügynököket.
+>>>>>>> f6457b87edd2c1b2ede73defb63d7ed627ce28a1
+
+
+producer 
+Joel Silver
+
+Vágo
+Zach Staenberg
+
+Trailer
+https://www.youtube.com/watch?v=m8e-FF8MsqU
+
+
+
+
