@@ -32,3 +32,13 @@ Chris Ridenhour
 Producer:
 David Michael Latt
 
+<<<<<<< HEAD
+=======
+foszereplok:
+Carmen Electra
+Brooke Hogan
+Charlie O'Connell
+
+bevetel : 
+10millio dollar 
+>>>>>>> 17b9d15cb01776bb4819d5c1f58cbf9b192e1840
