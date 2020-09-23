@@ -4,17 +4,28 @@ Laurence Fishburne
 Carrie-Anne Moss
 Hugo Weaving
 Joe Pantoliano
-<<<<<<< HEAD
+
 
 rendezok
 Larry Wachowski, Lilly Wachowski
-=======
-<<<<<<< HEAD
+
 
 bevétele
 171 millió dollár
 
->>>>>>> 77610d59be20de0ed41ecc3daed639d5f14be217
+
+díj: 
+Oscar-díj (2000)
+
+
+
 megjelenés helyszíne:1999-es amerikai–ausztrál film
+<<<<<<< HEAD
 Zene	Don Davis
 Producer	Joel Silver
+=======
+
+=======
+Zene	Don Davis
+
+>>>>>>> da35b45dc49121eb26a852d923341e57ca81ed9b
